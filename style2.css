@@ -1,0 +1,56 @@
+#top-fantasy-section{
+    display: flex;
+}
+
+#top-fantasy-section img{
+ width: 500px;
+ display: block;
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+.project{
+    padding: 2%;
+    box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.3); 
+
+    border-radius: 100px 0px 100px 0px;
+    margin: 50px;
+    background-color: rgb(29, 3, 52);
+}
+
+.project h2{
+    text-align: center;
+    color: aliceblue;
+    padding: 30px 0px;
+}
+
+.reviews{
+    color: aliceblue;
+    background-color: black;
+    padding:  10px  30px;
+    border-radius:  20px;
+    border: 1px solid white;
+    overflow-y:scroll;
+}
+
+.year{
+    color: aliceblue;
+    margin: 2%;
+}
+
+.genre{
+    color: aliceblue;
+    margin: 2% 2% 5% 2%;
+}
+
+#top-fantasy-section a{
+    color: aliceblue;
+}
+
+body::-webkit-scrollbar{
+    display:block;
+}
+
+
