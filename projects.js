@@ -2,6 +2,30 @@ const fantasyMovies = [
     
 
   {
+      title: "RAG - GPT",
+      year: "AI Data Analyst",
+      genre: "OPENAI API | FAST API | REACT | PYTHON",
+      poster: "./assets/aiDataAnalyst.png",
+      git: "https://github.com/Arunpradeepu/askToYt-v2",
+      liveDemo: ""
+    },
+  {
+      title: "VEHICLE TRACKING",
+      year: "AI-based vehicle monitoring system",
+      genre: "YOLOv8 | DeepSORT | NumPy | Excel Automation ",
+      poster: "./assets/vehicleTracking.png",
+      git: "https://github.com/Arunpradeepu/trafficDetection",
+      liveDemo: ""
+    },
+  {
+      title: "Nutriquest",
+      year: "A Nutrient Tracking Mobile Application",
+      genre: "OpenFoodFacts API | Fultter ",
+      poster: "./assets/nutri.jpg",
+      git: "https://github.com/Arunpradeepu/askToYt-v2",
+      liveDemo: "https://github.com/Arunpradeepu/askToYt-v2"
+    },
+  {
       title: "CineSnap",
       year: "Movie Streaming Platform",
       genre: "OMDB API | CSS | JavaScript | HTML",
@@ -33,25 +57,7 @@ const fantasyMovies = [
       git: "https://github.com/Arunpradeepu/Track_Reps",
       liveDemo: "https://arunpradeepu.github.io/Track_Reps/index2.html"
     },
-    {
-      title: "Celebrare",
-      year: "Photo Uploader Website",
-      genre: " HTML | CSS | JavaScript ",
-      poster: "./assets/celebrare.png",
-      git: "https://github.com/Arunpradeepu/celebrare2",
-      liveDemo: "https://arunpradeepu.github.io/celebrare2/upload.html"
-    },
-    {
-      title: "Deep Thought",
-      year: "An Assingnment from DT",
-      genre: " HTML | CSS | JavaScript ",
-      poster: "./assets/deepthought.png",
-      git: "https://github.com/Arunpradeepu/DeepThought",
-      liveDemo: "https://arunpradeepu.github.io/DeepThought/"
-    },
-
-
-    
+       
 
   ];
   
