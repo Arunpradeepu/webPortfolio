@@ -3,7 +3,7 @@
 }
 
 #top-fantasy-section img{
- width: 500px;
+ width: 400px;
  display: block;
 }
 
@@ -16,7 +16,7 @@ img:hover{
     box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.3); 
 
     border-radius: 100px 0px 100px 0px;
-    margin: 50px;
+    margin: 30px;
     background-color: rgb(29, 3, 52);
 }
 
