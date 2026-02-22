@@ -52,5 +52,9 @@ img:hover{
 body::-webkit-scrollbar{
     display:block;
 }
+#lc{
+    border-radius:50%;
+
+}
 
 
